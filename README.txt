@@ -1,10 +1,5 @@
 Assignment 2 -
 
-Submit by- 
-
-	Tal Weisler 316297019 (weislert)
-	Rotem Amit 314976903 (amitrote)
-
 Details about the work-
 
 - Number of MapReduce rounds: 5
